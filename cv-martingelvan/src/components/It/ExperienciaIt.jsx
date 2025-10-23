@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import "../css/ExperienciaIt.css";
+import "../../../src/components/css/ExperienciaIt.css";
 
 export const ExperienciaIT = () => {
   return (
